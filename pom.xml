@@ -40,8 +40,8 @@
     <drools.version>5.6.0-SG</drools.version>
     <drools.osgi.version>5.6.0-SG</drools.osgi.version>
     <drools-planner.version>${drools.version}</drools-planner.version>
-    <jbpm.version>5.5.0-SG</jbpm.version>
-    <jbpm.osgi.version>5.5.0-SG</jbpm.osgi.version>
+    <jbpm.version>5.6.0-SG</jbpm.version>
+    <jbpm.osgi.version>5.6.0-SG</jbpm.osgi.version>
     <droolsjbpm-integration.version>${drools.version}</droolsjbpm-integration.version>
     <guvnor.version>${drools.version}</guvnor.version>
     <droolsjbpm-tools.version>${drools.version}</droolsjbpm-tools.version>
